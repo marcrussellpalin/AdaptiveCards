@@ -12,7 +12,7 @@
 		   "webRoot": "${workspaceFolder}/source/nodejs/adaptivecards-designer"
 	   },{
 		   "name": ".NET Core Attach",
-		   "type": "coreclr",
+		   "type": "node",
 		   "request": "attach",
 		   "processId": "${command:pickProcess}"
 	   }
